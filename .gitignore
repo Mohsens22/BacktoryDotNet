@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Backtory/Backtory.ConsoleTest/Initializer.cs
+/Backtory/Backtory.ConsoleTest/Initializer.cs
