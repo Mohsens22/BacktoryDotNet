@@ -261,3 +261,5 @@ __pycache__/
 *.pyc
 /Backtory/Backtory.ConsoleTest/Initializer.cs
 /Backtory/Backtory.ConsoleTest/Initializer.cs
+/Backtory/HttpClientForMohsen/Secret.cs
+/Backtory/HttpClientForMohsen/Secret.cs
