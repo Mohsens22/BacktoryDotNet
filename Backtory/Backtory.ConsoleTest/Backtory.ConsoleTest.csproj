@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Backtory\Backtory.csproj">
+      <Project>{c53c314a-2a01-4ffd-88b0-0ff2dcd33426}</Project>
+      <Name>Backtory</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
