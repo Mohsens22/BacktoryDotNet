@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Backtory.ConsoleTest
+namespace HttpClientForMohsen
 {
-    class Program
+    class Secret
     {
-        static void Main(string[] args)
+        public void Init()
         {
-            Initializer.Initilize();
+
         }
     }
 }

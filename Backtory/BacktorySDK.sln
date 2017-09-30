@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientForMohsen", "HttpClientForMohsen\HttpClientForMohsen.csproj", "{949972DF-9A1F-470D-BBAD-8CD0CAB2C194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backtory", "Backtory\Backtory.csproj", "{6ACCA5B3-81C2-4D41-9392-C1662963D810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949972DF-9A1F-470D-BBAD-8CD0CAB2C194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949972DF-9A1F-470D-BBAD-8CD0CAB2C194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949972DF-9A1F-470D-BBAD-8CD0CAB2C194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949972DF-9A1F-470D-BBAD-8CD0CAB2C194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACCA5B3-81C2-4D41-9392-C1662963D810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACCA5B3-81C2-4D41-9392-C1662963D810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACCA5B3-81C2-4D41-9392-C1662963D810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACCA5B3-81C2-4D41-9392-C1662963D810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2290C9E6-6FF4-4838-81EE-563006F4915B}
+	EndGlobalSection
+EndGlobal

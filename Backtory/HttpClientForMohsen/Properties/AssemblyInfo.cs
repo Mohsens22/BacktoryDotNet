@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Backtory.ConsoleTest")]
+[assembly: AssemblyTitle("HttpClientForMohsen")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Backtory.ConsoleTest")]
+[assembly: AssemblyProduct("HttpClientForMohsen")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bbaaced8-5327-4cbb-ad0f-1fb371956a28")]
+[assembly: Guid("949972df-9a1f-470d-bbad-8cd0cab2c194")]
 
 // Version information for an assembly consists of the following four values:
 //
